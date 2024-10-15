@@ -8,3 +8,9 @@ The model aims to detect fake news with high accuracy by leveraging advanced pre
 - **One-hot Encoding**: Converted textual data into one-hot representations for better handling by the neural network.
 - **Embedding & Padding**: Utilized embedding layers and applied sequence padding to manage variable-length input data, ensuring a uniform input size for the LSTM.
 - **Model Performance**: Achieved an accuracy of 90%, providing reliable predictions on news authenticity.
+
+
+**Technologies Used**
+- **TensorFlow & Keras**: For building and training the LSTM model.
+- **NLP Techniques**: Porter Stemmer, stopword removal.
+- **One-hot Encoding & Embedding**: For efficient text representation.
