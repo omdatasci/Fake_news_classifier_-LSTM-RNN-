@@ -10,6 +10,7 @@ The model aims to detect fake news with high accuracy by leveraging advanced pre
 - **Model Performance**: Achieved an accuracy of 90%, providing reliable predictions on news authenticity.
 
 
+
 **Technologies Used**
 - **TensorFlow & Keras**: For building and training the LSTM model.
 - **NLP Techniques**: Porter Stemmer, stopword removal.
